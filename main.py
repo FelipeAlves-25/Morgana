@@ -11,6 +11,7 @@ class Construtor(App):
     return Janela()
 
 Construtor().run()
+
 # IA
 
 # Eventos
